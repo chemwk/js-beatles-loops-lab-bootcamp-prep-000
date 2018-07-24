@@ -21,5 +21,8 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(parameter){
   var = array;
-  for()
+  do{ array = [...array, "I love the Beatles!"];
+  parameter++
+  } while(parameter<15)
+  return array
 }
