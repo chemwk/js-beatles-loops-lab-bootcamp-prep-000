@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
 
 
 function iLoveTheBeatles(parameter){
-  var = array;
+  var array=[];
   do{ array = [...array, "I love the Beatles!"];
   parameter++
   } while(parameter<15)
